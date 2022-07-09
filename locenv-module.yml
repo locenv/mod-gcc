@@ -1,0 +1,6 @@
+name: gcc
+version: -1
+program:
+  linux: libgcc.so
+  darwin: libgcc.dylib
+  win32: gcc.dll
